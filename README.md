@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mega School
 
-<!--
-**mega-school/mega-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Passionate about learning and building projects
+- 💻 Interested in programming, technology, and innovation
+- 🌱 Currently improving my skills every day
+- 🎯 Goal: Build useful and impactful software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- 💡 Languages: JavaScript | Python | HTML | CSS
+- ⚙️ Tools: Git | GitHub | VS Code
+- 🌐 Interests: Web Development | Open Source | Problem Solving
+
+## 📊 GitHub Stats
+![Mega School's GitHub stats](https://github-readme-stats.vercel.app/api?username=mega-school&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=mega-school&theme=radical)
+
+## 📌 Featured Projects
+- 🚀 Coming soon...
+
+## 🤝 Connect with Me
+- GitHub: https://github.com/mega-school
+
+## 💡 Fun Fact
+> "Learning never stops 🚀"
+
+---
+
+⭐️ From [mega-school](https://github.com/mega-school)
